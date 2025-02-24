@@ -6,26 +6,20 @@ This project applies **feature selection and regression techniques** to analyze 
 While this study focuses on crime rate prediction, these **machine learning techniques are widely used in biomedical imaging** for identifying biomarkers in MRI and PET scans.
 
 ## 📊 Methods Used
-- **Feature Selection:** Lasso, Ridge, Elastic Net, Best Subsets, Stepwise Regression
+- **Feature Selection:** Lasso, Ridge, Elastic Net, Best Subsets, Recursive Feature Selection
 - **Predictive Modeling:** Linear Regression, Regularization Path Analysis, Model Validation
 - **Optimization:** Cross-validation, Hyperparameter Tuning, Performance Evaluation
+- **Empirical Demonstrations:** Regression properties with correlated features, bias-variance tradeoff analysis
 
 ## 📂 Repository Structure
 High-Dimensional-Data-Modeling/
 │── 📜 README.md               # This file
-
 │── 📂 notebooks/               # Jupyter notebooks with code
-
 │   ├── feature_selection.ipynb  # Feature selection & preprocessing (Problem 1)
-
 │   ├── empirical_demo_regression.ipynb  # Empirical regression demonstrations (Problem 2)
-
 │── 📂 reports/                 # Final summary & PDF exports
-
 │   ├── stat_ml_analysis.pdf  # Written analysis of results (Full PDF)
-
 │   ├── feature_selection_.pdf  # PDF export of feature_selection.ipynb
-
 │   ├── empirical_demo_regression.pdf  # PDF export of empirical_demo_regression.ipynb
 
 
