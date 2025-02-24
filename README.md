@@ -1,4 +1,4 @@
-# High-Dimensional-Data-Modeling: A Case Study on Crime Prediction
+# High Dimensional Data Modeling: A Case Study on Crime Prediction
 
 ## 🔍 Project Overview
 This project applies **feature selection and regression techniques** to analyze high-dimensional data, using the **Communities and Crime dataset**. By implementing **Lasso, Ridge, and Elastic Net regularization**, we identify the most predictive features and optimize model performance. 
