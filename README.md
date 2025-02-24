@@ -3,8 +3,6 @@
 ## 🔍 Project Overview
 This project applies **feature selection and regression techniques** to analyze high-dimensional data, using the **Communities and Crime dataset**. By implementing **Lasso, Ridge, and Elastic Net regularization**, we identify the most predictive features and optimize model performance. 
 
-While this study focuses on crime rate prediction, these **machine learning techniques are widely used in biomedical imaging** for identifying biomarkers in MRI and PET scans.
-
 ## 📊 Methods Used
 - **Feature Selection:** Lasso, Ridge, Elastic Net, Best Subsets, Recursive Feature Selection
 - **Predictive Modeling:** Linear Regression, Regularization Path Analysis, Model Validation
