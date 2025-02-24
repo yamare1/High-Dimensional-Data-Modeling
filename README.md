@@ -19,16 +19,14 @@ While this study focuses on crime rate prediction, these **machine learning tech
 - **Regularization techniques help stabilize high-dimensional models**, making them more robust.
 - The **same statistical techniques are commonly applied in MRI/PET imaging** to identify relevant biomarkers.
 
-## 📌 How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/High-Dimensional-Data-Modeling.git
-   
-2. Install dependencies (if needed):
-pip install -r requirements.txt
+## 📂 Data
+This project uses the **Communities and Crime dataset** from the **UCI Machine Learning Repository**.
 
-3. Open the notebooks and run the analysis.
+**Dataset Source:**
+[Communities and Crime - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/183/communities+and+crime)
+
+This dataset is publicly available for research and educational use. Full credit to the original authors and UCI ML Repository.
 
 
 📬 Contact
-For any questions, feel free to reach out via GitHub or email.
+For any questions, feel free to reach out via ya2562@columbia.edu
