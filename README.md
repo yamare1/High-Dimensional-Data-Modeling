@@ -32,8 +32,6 @@ This project uses the **Communities and Crime dataset** from the **UCI Machine L
 **Dataset Source:**
 [Communities and Crime - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/183/communities+and+crime)
 
-This dataset is publicly available for research and educational use. Full credit to the original authors and UCI ML Repository.
-
 
 📬 Contact
 For any questions, feel free to reach out via ya2562@columbia.edu
