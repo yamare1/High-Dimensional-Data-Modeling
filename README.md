@@ -24,7 +24,6 @@ High-Dimensional-Data-Modeling/
 ## 🚀 Key Findings
 - **Feature selection improves model interpretability** and avoids overfitting.
 - **Regularization techniques help stabilize high-dimensional models**, making them more robust.
-- The **same statistical techniques are commonly applied in MRI/PET imaging** to identify relevant biomarkers.
 
 ## 📂 Data
 This project uses the **Communities and Crime dataset** from the **UCI Machine Learning Repository**.
